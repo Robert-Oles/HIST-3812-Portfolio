@@ -14,4 +14,10 @@ In the second module, we took our digital artifacts and tried to find compelling
 
 ## Module 3: Digital Things to Digital Worlds ##
 
+THis module was the hardest for me, I felt that this module also was the most removed from the transformative theme that this course had embodied. In this module I created a [game on twine](http://philome.la/oles_robert/grand-librarian) that was trying to create a bsic world that highlighted the difficult choices that educators make when trying to find ways to easily teach history and how often time, various restraints cause educators to simplify the way that they present content. I felt that this was reflective of my previous experience with history growing up where the world was black and white, good and evil. While I don't think this module was particularlly transformative in nature, I believe that through this module I was forced to consider unique ways to try to convey the themes I had brought to the forefront in a compelling way while still remaining accurate to the source. 
+
+## Module 4: Digital Worlds back to the Physical World ##
+
+In this module we had to tackle how to bring back the digital artifacts back into the phyiscal world in a compelling way. For this module I created an [Augmented Reality App](https://github.com/Robert-Oles/Hist3812-Module-4) which, when presented with Progress written in bones it would present the module 2 model. I loved this module, I felt that I learned so much about the accessability of digital history tools, how technology engages with history and the power of smartphones. I acutally took what what I learned and applied it to my DIGH 2002 class.
+
 
